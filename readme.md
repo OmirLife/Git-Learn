@@ -1,1 +1,1 @@
-# hey, you! keep going
+from nothing to something... and then to Everything!

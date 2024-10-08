@@ -11,6 +11,3 @@ Come and get it!
 Day 2!
 
 Keep smashing!
-
-
-Add revert to console.log

@@ -7,3 +7,7 @@ Day 1 OR One day? That's the qugestion.
 Learn & Earn.
 
 Come and get it!
+
+Day 2!
+
+Keep smashing!
